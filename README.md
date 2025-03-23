@@ -22,7 +22,7 @@ Welcome to the **VerificationCaptcha** project! This simple CAPTCHA generator is
    
 2) Open the project in Visual Studio.
 
-3) Build and Run the application by pressing F5 or clicking the Start button in Visual Studio.
+3) Build and Run the application by pressing F5 or clicking the build button at the top of Visual Studio.
 
 ![image](https://i.imgur.com/atJZRFt.png)
 
